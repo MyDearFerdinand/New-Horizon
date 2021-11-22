@@ -1,0 +1,238 @@
+section{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+header{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+body{
+    background-color: rgba(27, 80, 162, 1);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.banner{
+    margin-top: 90px;
+}
+.advantsec{
+    margin-top: 90px;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 42px;
+    color: white;
+    letter-spacing: 0.05em;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 32px;
+    color: white;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 22px;
+    color: white;
+    letter-spacing: 0.05em;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+strong {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-size: 14px;
+    color: white;
+    text-decoration: none;
+}
+.collapse{
+    float: right;
+}
+.contbtn{
+    width: 200px;
+    border-radius: 45px;
+}
+.contbtn2{
+    width: 200px;
+    border-radius: 45px;
+    margin-top: 30px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: white;
+}
+.nhsec{
+    margin-top: 100px;
+}
+.pic1{
+    margin-top: 25px;
+}
+.pic2{
+    margin-top: 25px;
+}
+.gallery2{
+    margin-top: 25px;
+}
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: white;
+    margin-left: 15px;
+}
+.vertical-line1{
+    width: 1px;
+    background-color: white;
+    height: 328px;
+    float: right;
+}
+.vertical-line2{
+    width: 1px;
+    background-color: white;
+    height: 328px;
+}
+.nav-item {
+    margin-right: 30px;
+}
+.nav-item:hover{
+    position: relative;
+    bottom: 5px;
+}
+.social-icon{
+    margin-left: 10px;
+}
+.social-icon:hover{
+    position: relative;
+    bottom: 5px;
+}
+.contform{
+    margin-top: 190px;
+}
+.contform2{
+    position: relative;
+    left: 60px;
+    padding-top: 105px;
+    padding-bottom: 105px;
+    background-color: white;
+}
+.ftrcont{
+    position: relative;
+    left: 60px;
+    padding-top: 60px;
+    background-color: white;
+}
+.contform h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 42px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+.contform p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+.contform label{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+input{
+    margin-top: 30px;
+}
+select{
+    margin-top: 30px;
+}
+.cntus{
+    text-align: center;
+}
+.news1{
+    margin-top: 140px;
+}
+.news2{
+    margin-top: 40px;
+}
+.newsblock{
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+.newsline{
+    color: white;
+    border: 1.5px;
+    border-color: white;
+}
+.newsline2{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    color: white;
+    border: 1.5px;
+    border-color: white;
+}
+footer h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 22px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+footer p{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+.logo_icon2{
+    float: left;
+}
+.footerq1{
+    margin-top: 11px;
+    margin-left: 25px;
+}
+.social-icon2{
+    margin-right: 45px;
+}
+footer a{
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    color: rgba(27, 80, 162, 1);
+    letter-spacing: 0.05em;
+}
+.ftrnav{
+    position: relative;
+    right: 15px;
+    bottom: 10px;
+}
+.title{
+    position: relative;
+    top: 105px;
+    left: 65px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 115.8%;
+    letter-spacing: 0.1em;
+    overflow: hidden;
+}
+.currentnews{
+    padding-bottom: 45px;
+}
